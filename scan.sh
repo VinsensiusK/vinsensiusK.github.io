@@ -1,0 +1,1 @@
+java -jar /opt/burp.jar http://118.82.6.183 --api-key=$BURP_SECRET --site-id=$SITE_ID --min-severity=$MIN_SEVERITY --min-confidence=certain
